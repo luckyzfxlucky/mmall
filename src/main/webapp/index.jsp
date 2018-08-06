@@ -12,5 +12,6 @@
 </head>
 <body>
 hello world!
+<a href="/user/login.do/?username=a&&password=y">aa</a>
 </body>
 </html>
